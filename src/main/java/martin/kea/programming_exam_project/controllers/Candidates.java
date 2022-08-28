@@ -7,6 +7,7 @@ import martin.kea.programming_exam_project.repositories.PartyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+//test
 
 @RestController
 public class Candidates {
